@@ -45,6 +45,6 @@ add_action('wp_enqueue_scripts', 'styleandscript');
             <img class="loop" src="wp-content/uploads/2022/04/loop.png" alt="loop">
             <img class="lang" src="wp-content/uploads/2022/04/translate2.png" alt="translate">
         </ul>
-		   
+		
     </nav>
 	</header><!-- #masthead -->
