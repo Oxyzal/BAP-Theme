@@ -43,5 +43,6 @@ add_action('wp_enqueue_scripts', 'styleandscript');
             <img class="loop" src="nav/loop.png" alt="loop">
             <img class="lang" src="nav/translate.png" alt="translate">
         </ul>
+		   
     </nav>
 	</header><!-- #masthead -->
