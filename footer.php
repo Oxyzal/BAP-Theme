@@ -30,14 +30,14 @@ add_action('wp_enqueue_scripts', 'styleandscript');
 <footer class="footer">
     <div class="l-footer">
     <h1>
-    <img class="logo" src="http://localhost/MedilinkV4/wp-content/uploads/2022/04/logo.png" alt=""></h1>
+    <img class="logos" src="wp-content/uploads/2022/04/logo.png" alt=""></h1>
     <p class="lp-footer">
         Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum.
     </p>
     
         <div class="imgfoot">
-            <a href="#"><img class="img-footer" src="footer/linkedin.png" alt=""></a>
-            <a class="space-left" href="#"><img class="img-footer" src="footer/facebook.png" alt=""></a>
+            <a href="#"><img class="img-footer" src="wp-content/uploads/2022/04/linkedin.png" alt=""></a>
+            <a class="space-left" href="#"><img class="img-footer" src="wp-content/uploads/2022/04/facebook.png" alt=""></a>
     
         </div>
     

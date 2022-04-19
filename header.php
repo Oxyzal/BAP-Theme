@@ -34,15 +34,15 @@ add_action('wp_enqueue_scripts', 'styleandscript');
 		<!-- Attention ! les url correspondent au site en local -->
 
 		<nav class="navbar">
-        <img class="logo" src="nav/logo.png" alt="logo">
+        <img class="logo" src="wp-content/uploads/2022/04/logo.png" alt="logo">
         <ul class="navbar_menu">
             <li class="links"><a href="#">Home</a></li>
             <li class="links"><a href="#">Notre Équipe</a></li>
             <li class="links"><a href="#">Évents</a></li>
             <li class="links"><a href="#">Solutions</a></li>
             <li class="links"><a href="#">Contact</a></li>
-            <img class="loop" src="nav/loop.png" alt="loop">
-            <img class="lang" src="nav/translate.png" alt="translate">
+            <img class="loop" src="wp-content/uploads/2022/04/loop.png" alt="loop">
+            <img class="lang" src="wp-content/uploads/2022/04/translate2.png" alt="translate">
         </ul>
 		   
     </nav>
