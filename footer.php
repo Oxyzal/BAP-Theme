@@ -36,8 +36,8 @@ add_action('wp_enqueue_scripts', 'styleandscript');
         </p>
         
             <div class="imgfoot">
-                <a href="#"><img class="img-footer" src="http://localhost/MedilinkV4/wp-content/uploads/2022/04/linkedin.png" alt=""></a>
-                <a class="space-left" href="#"><img class="img-footer" src="http://localhost/MedilinkV4/wp-content/uploads/2022/04/facebook.png" alt=""></a>
+                <a class="white" href=""><i class="fab fa-linkedin fa-3x white"></i></a>
+                <a class="space-left white" href="#"><i class="fab fa-facebook fa-3x"></i></a>
         
             </div>
         

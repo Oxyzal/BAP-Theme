@@ -20,6 +20,7 @@ add_action('wp_enqueue_scripts', 'styleandscript');
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
+    <script src="https://kit.fontawesome.com/0961a08f8a.js" crossorigin="anonymous"></script>
 
 	<?php wp_head(); ?>
 </head>

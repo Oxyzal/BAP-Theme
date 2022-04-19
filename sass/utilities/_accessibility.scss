@@ -143,8 +143,6 @@
     .logos {
         height: 50px;
         width: 170px;
-        margin-bottom: 15px;
-        margin-top: 10px;
         margin-left: 60px;
 
     }
@@ -181,14 +179,18 @@
     
     .imgfoot {
         display: block;
-        padding-top: 25px;
+        padding-top: 5px;
         padding-left: 59px;
-        
-
+        a{
+            height: 50px;
+            img {
+                height: 50px;
+            }
+        }
     }
 
     .space-left {
-        margin-left: 70px;
+        margin-left: 5%;
     }
 
     .footer a {
@@ -240,7 +242,7 @@
 
     .p-footer {
         font-family: 'Open Sans', sans-serif;
-        margin-top: 15px;
+        margin-top: 10px;
     }
     @media screen and (min-width: 600px) {
     .r-footer > * {
