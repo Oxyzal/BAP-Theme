@@ -906,7 +906,7 @@ textarea {
 
 .navbar_menu {
   margin-top: 0.01vh;
-  margin-left: 6vh;
+  margin-left: 0.5vh;
   display: flex;
   text-decoration: none;
 }
@@ -924,7 +924,7 @@ textarea {
 }
 
 .links {
-  margin-top: 5.5vh;
+  margin-top: 4.7vh;
 }
 
 .links a {
@@ -977,6 +977,7 @@ textarea {
     margin-left: 0vw;
   }
 }
+/* footer style*/
 .footer {
   display: flex;
   flex-flow: row wrap;

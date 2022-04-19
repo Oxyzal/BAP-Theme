@@ -50,7 +50,7 @@ add_action('wp_enqueue_scripts', 'styleandscript');
             <li><a href="#">A.R.C</a></li>
             <li><a href="#">Contacts</a></li>
             <li><a href="#">Equipes</a></li>
-            <li><a href="#">Events</a></li>
+            <li><a href="#">Événemenents</a></li>
             <li><a href="#">Solutions</a></li>
             </ul>
         </li>
@@ -59,7 +59,7 @@ add_action('wp_enqueue_scripts', 'styleandscript');
             <ul class="box">
             <li><a href="#">Mentions Légales</a></li>
             <li><a href="#">RGPD</a></li>
-            <li><a href="#">Site map</a></li>
+            <li><a href="#">Carte du site</a></li>
             </ul>
         </li>
         
