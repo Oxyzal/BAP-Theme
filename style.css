@@ -976,6 +976,7 @@ textarea {
 .footer {
   display: flex;
   flex-flow: row wrap;
+  padding: 20px;
   color: #fff;
   background-color: #1EB083;
   position: absolute;
@@ -1072,7 +1073,6 @@ h2 {
 
 .line {
   margin: 0 auto;
-  margin-top: 50px;
   width: 80%;
   height: 1px;
   background-color: #fff;
@@ -1080,7 +1080,7 @@ h2 {
 
 .p-footer {
   font-family: "Open Sans", sans-serif;
-  margin-top: 25px;
+  margin-top: 15px;
 }
 
 @media screen and (min-width: 600px) {
