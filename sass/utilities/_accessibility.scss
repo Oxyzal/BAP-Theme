@@ -49,9 +49,15 @@
 .navbar {
 
     display: flex;
+    align-items: center;
     background-color: #1EB083;
-    height: 100px;
+    height: 130px;
     padding-top: 1vh;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .navbar_menu {
@@ -135,8 +141,6 @@
     padding: 20px;
     color: #fff;
     background-color: #1EB083;
-    position: absolute;
-    bottom: 0;
     width: 100%;
     }
 
