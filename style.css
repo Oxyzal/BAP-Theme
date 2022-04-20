@@ -48,6 +48,10 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	- Alignments
 
 --------------------------------------------------------------*/
+.white {
+  color: white;
+}
+
 /*--------------------------------------------------------------
 # Generic
 --------------------------------------------------------------*/
@@ -730,10 +734,6 @@ textarea {
 
 .bypostauthor {
   display: block;
-}
-
-.white {
-  color: white;
 }
 
 /* Widgets
